@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 15 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Where Do the Draft Tokens Come From — The Parallel Decoding Stack</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-16.mp3" length="3572757" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-16.mp3</guid>
+      <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:07:15</itunes:duration>
+    </item>
     <item>
       <title>Memory-for-Recompute, Searchable Compilers, and Measuring Judge Bias</title>
       <itunes:author>Michael Crystal</itunes:author>
