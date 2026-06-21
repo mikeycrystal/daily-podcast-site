@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 20 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Two Ways to Cut Latency, and a Classifier That Let Malware In</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-21.mp3" length="3811173" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-21.mp3</guid>
+      <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:07:47</itunes:duration>
+    </item>
     <item>
       <title>Speculate-and-Verify Climbs the Stack: From Token Decoding to Agent Steps</title>
       <itunes:author>Michael Crystal</itunes:author>
