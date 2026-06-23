@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 22 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>KV Cache Eats the Serving Stack</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-23.mp3" length="3161997" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-23.mp3</guid>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:06:22</itunes:duration>
+    </item>
     <item>
       <title>Evals as the Artifact — Cybersecurity Eval Design on a Quiet Day</title>
       <itunes:author>Michael Crystal</itunes:author>
