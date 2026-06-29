@@ -1,9 +1,9 @@
 {
-  "title": "Speculative Decoding Becomes a Primitive \u2014 DeepSpec and the Verify-Step Bottleneck",
+  "title": "RL-Systems Eat Reasoning: Async Weight Sync, Rollout Harnesses, and FlashAttention-4",
   "date": "2026-06-29",
   "file": "podcast-2026-06-29.mp3",
   "provider": "kokoro",
-  "duration_seconds": 406.4,
-  "word_count": 1109,
-  "bytes": 3334509
+  "duration_seconds": 420.0,
+  "word_count": 1122,
+  "bytes": 3476853
 }
