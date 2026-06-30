@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 29 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Agentic Serving Meets Its Failure Modes — KernelFlume, Simulators, and Pessimism's Paradox</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-30.mp3" length="3492501" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-30.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:07:08</itunes:duration>
+    </item>
     <item>
       <title>RL-Systems Eat Reasoning: Async Weight Sync, Rollout Harnesses, and FlashAttention-4</title>
       <itunes:author>Michael Crystal</itunes:author>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-14.mp3</guid>
       <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:05:54</itunes:duration>
-    </item>
-    <item>
-      <title>Harnesses That Improve Themselves — and the Decode-Phase Kernel Grind</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-13.mp3" length="2907237" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-13.mp3</guid>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:05:56</itunes:duration>
     </item>
   </channel>
 </rss>
