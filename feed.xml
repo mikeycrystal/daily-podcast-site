@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 15 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Speculative Decoding: How a Small Model Makes a Big Model Faster Without Changing a Word</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-16.mp3" length="4390245" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-16.mp3</guid>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:08:48</itunes:duration>
+    </item>
     <item>
       <title>Quantization: Spending Your Bits Where They Matter</title>
       <itunes:author>Michael Crystal</itunes:author>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-29.mp3</guid>
       <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:07:00</itunes:duration>
-    </item>
-    <item>
-      <title>Muon Goes Distributed and the Co-Failure Ceiling on Ensembles</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-26.mp3" length="3357021" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-06-26.mp3</guid>
-      <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:06:45</itunes:duration>
     </item>
   </channel>
 </rss>
