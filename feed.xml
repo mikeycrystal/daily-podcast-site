@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 19 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Nines: What Reliability Actually Means for GPU Inference</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-20.mp3" length="4719645" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-20.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:31</itunes:duration>
+    </item>
     <item>
       <title>Agentic Orchestration — What Actually Makes Software "Agentic</title>
       <itunes:author>Michael Crystal</itunes:author>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-05.mp3</guid>
       <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:07:09</itunes:duration>
-    </item>
-    <item>
-      <title>The Decode Wall and the One Knob Behind Every RL Recipe</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-02.mp3" length="3670533" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-02.mp3</guid>
-      <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:07:29</itunes:duration>
     </item>
   </channel>
 </rss>
