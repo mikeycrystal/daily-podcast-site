@@ -8,7 +8,15 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 21 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Reasoning Benchmarks: What Are You Actually Measuring?</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-22.mp3" length="5383773" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-22.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:10:40</itunes:duration>
+    </item>
     <item>
       <title>Language Models Need Sleep — Consolidating Memory Into Weights</title>
       <itunes:author>Michael Crystal</itunes:author>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-07.mp3</guid>
       <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:06:53</itunes:duration>
-    </item>
-    <item>
-      <title>Disaggregated Inference and the Death of the Single Forward Pass</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-06.mp3" length="3273549" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-06.mp3</guid>
-      <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:06:40</itunes:duration>
     </item>
   </channel>
 </rss>
