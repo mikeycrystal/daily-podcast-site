@@ -8,14 +8,22 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 23 Jul 2026 21:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:52:36 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 21:54:17 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 13:52:36 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
+    </item>
+    <item>
+      <title>SGMV — Serving Hundreds of LoRA Adapters in One Decode Batch</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-24.mp3" length="4510317" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-24.mp3</guid>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:04</itunes:duration>
     </item>
     <item>
       <title>Reasoning Benchmarks: How We Know a Model Can Actually Think</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-10.mp3</guid>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:07:34</itunes:duration>
-    </item>
-    <item>
-      <title>Joint Routing, Rival Grading, and the Spectral Algebra of Attention</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-09.mp3" length="3688101" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-09.mp3</guid>
-      <pubDate>Thu, 09 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:07:26</itunes:duration>
     </item>
   </channel>
 </rss>
