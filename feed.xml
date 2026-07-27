@@ -8,14 +8,22 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 27 Jul 2026 13:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:38:30 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 13:34:06 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 20:38:30 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
+    </item>
+    <item>
+      <title>Inside Kimi K3 — Delta Attention, Attention Residuals, and Stable LatentMoE</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
+      <pubDate>Mon, 27 Jul 2026 20:38:30 +0000</pubDate>
+      <itunes:duration>0:13:40</itunes:duration>
     </item>
     <item>
       <title>Stale but Stable — Staleness-Adaptive Trust Regions in Async RL</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-15.mp3</guid>
       <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:08:48</itunes:duration>
-    </item>
-    <item>
-      <title>KV Cache — The Memory That Makes LLM Generation Fast</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-14.mp3" length="4596381" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:11</itunes:duration>
     </item>
   </channel>
 </rss>
