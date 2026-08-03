@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 02 Aug 2026 13:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:53:08 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Sun, 02 Aug 2026 13:13:15 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 12:53:08 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Sun, 02 Aug 2026 13:13:15 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 12:53:08 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>ThunderAgent — Scheduling the Whole Agent, Not Each Call</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-03.mp3" length="4123461" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-03.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:08:20</itunes:duration>
     </item>
     <item>
       <title>Filesystem-Based Memory: When an Agent's Long-Term Memory Is Just a Folder of Files</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-22.mp3</guid>
       <pubDate>Wed, 22 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:10:40</itunes:duration>
-    </item>
-    <item>
-      <title>Language Models Need Sleep — Consolidating Memory Into Weights</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-21.mp3" length="4224669" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-07-21.mp3</guid>
-      <pubDate>Tue, 21 Jul 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:08:28</itunes:duration>
     </item>
   </channel>
 </rss>
