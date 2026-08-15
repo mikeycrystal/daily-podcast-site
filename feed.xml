@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 14 Aug 2026 17:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:54:09 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Fri, 14 Aug 2026 17:43:05 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 20:54:09 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Fri, 14 Aug 2026 17:43:05 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 20:54:09 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Spatial Memory Agent — Teaching Machines "How" Instead of "What</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-15.mp3" length="3927117" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-15.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:07:51</itunes:duration>
     </item>
     <item>
       <title>Weightless Fine-Tuning — Personalizing LLMs in Logit Space</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-03.mp3</guid>
       <pubDate>Mon, 03 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:08:20</itunes:duration>
-    </item>
-    <item>
-      <title>Filesystem-Based Memory: When an Agent's Long-Term Memory Is Just a Folder of Files</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-02.mp3" length="4915581" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-02.mp3</guid>
-      <pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:47</itunes:duration>
     </item>
   </channel>
 </rss>
