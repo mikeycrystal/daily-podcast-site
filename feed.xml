@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 24 Aug 2026 13:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:55:56 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Mon, 24 Aug 2026 13:28:20 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 13:55:56 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Mon, 24 Aug 2026 13:28:20 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 13:55:56 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Robust Risk Under Evolving Uncertainty — the Wasserstein EVaR</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-25.mp3" length="4619349" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-25.mp3</guid>
+      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:16</itunes:duration>
     </item>
     <item>
       <title>Agent Skills — Inference-Time Knowledge Packages and Their Limits</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-10.mp3</guid>
       <pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:10:00</itunes:duration>
-    </item>
-    <item>
-      <title>Test-Time Scaling: Spending Compute to Think Harder</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-09.mp3" length="4587333" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-09.mp3</guid>
-      <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:14</itunes:duration>
     </item>
   </channel>
 </rss>
