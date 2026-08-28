@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 27 Aug 2026 13:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:33:32 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Thu, 27 Aug 2026 13:42:02 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 12:33:32 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Thu, 27 Aug 2026 13:42:02 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 12:33:32 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Memory-Bound vs Compute-Bound: Why Your GPU Is Mostly Waiting</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-28.mp3" length="4578141" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-28.mp3</guid>
+      <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:11</itunes:duration>
     </item>
     <item>
       <title>Quantization-Aware Healing: Repairing 4-Bit LLMs After You've Already Broken Them</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-12.mp3</guid>
       <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:08:56</itunes:duration>
-    </item>
-    <item>
-      <title>Supervised Fine-Tuning: Teaching a Model by Showing It the Answers</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-11.mp3" length="4658565" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-11.mp3</guid>
-      <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:22</itunes:duration>
     </item>
   </channel>
 </rss>
