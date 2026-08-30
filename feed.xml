@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 29 Aug 2026 14:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:17:15 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Sat, 29 Aug 2026 14:26:11 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 13:17:15 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Sat, 29 Aug 2026 14:26:11 +0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 13:17:15 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>The KV Cache — Why Your LLM Remembers So It Doesn't Have to Recompute</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-30.mp3" length="3811917" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-30.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:07:41</itunes:duration>
     </item>
     <item>
       <title>Quantization: Trading Precision for Speed Without Losing the Model</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-14.mp3</guid>
       <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:09:04</itunes:duration>
-    </item>
-    <item>
-      <title>Cascade: The Cheap-First, Escalate-If-Needed Pattern in LLM Inference</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-13.mp3" length="4478661" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-13.mp3</guid>
-      <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:08:57</itunes:duration>
     </item>
   </channel>
 </rss>
