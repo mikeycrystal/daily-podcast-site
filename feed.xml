@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 01 Sep 2026 13:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:10:03 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Tue, 01 Sep 2026 13:42:06 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 14:10:03 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Tue, 01 Sep 2026 13:42:06 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 14:10:03 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>The Super Library Agent — Coding Across a Portfolio, Not a Codebase</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-02.mp3" length="5111589" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-02.mp3</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:10:15</itunes:duration>
     </item>
     <item>
       <title>Privacy Without Regret: Differentially Private Best-of-N Sampling</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-17.mp3</guid>
       <pubDate>Mon, 17 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:09:17</itunes:duration>
-    </item>
-    <item>
-      <title>AI4AI at Test-Time — Teaching a Weak Model Without Touching Its Weights</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-16.mp3" length="4018701" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-16.mp3</guid>
-      <pubDate>Sun, 16 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:08:05</itunes:duration>
     </item>
   </channel>
 </rss>
