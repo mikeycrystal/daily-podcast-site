@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 09 Sep 2026 10:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:59:01 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Wed, 09 Sep 2026 10:17:52 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 17:59:01 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Wed, 09 Sep 2026 10:17:52 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 17:59:01 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Evaluation-First AI Agents: Building Backwards from the Scorecard</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-10.mp3" length="4583085" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-10.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:11</itunes:duration>
     </item>
     <item>
       <title>Observability — Making AI Systems Confess What They're Doing</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-27.mp3</guid>
       <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:09:02</itunes:duration>
-    </item>
-    <item>
-      <title>Robust Risk Under Evolving Uncertainty — the Wasserstein EVaR</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-25.mp3" length="4619349" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-25.mp3</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:16</itunes:duration>
     </item>
   </channel>
 </rss>
