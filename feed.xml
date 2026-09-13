@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 10 Sep 2026 17:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:31:06 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Thu, 10 Sep 2026 17:59:01 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 21:31:06 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Thu, 10 Sep 2026 17:59:01 +0000</pubDate>
+      <pubDate>Sun, 13 Sep 2026 21:31:06 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>RLHF — When the Loss Comes From a Human, Not a Label</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-13.mp3" length="4586469" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-13.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:09:11</itunes:duration>
     </item>
     <item>
       <title>Evaluation-First AI Agents: Building Backwards from the Scorecard</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-28.mp3</guid>
       <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:09:11</itunes:duration>
-    </item>
-    <item>
-      <title>Quantization-Aware Healing: Repairing 4-Bit LLMs After You've Already Broken Them</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-27.mp3" length="4510269" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-27.mp3</guid>
-      <pubDate>Thu, 27 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:09:02</itunes:duration>
     </item>
   </channel>
 </rss>
