@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 16 Sep 2026 13:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:25:35 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Wed, 16 Sep 2026 13:54:28 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 14:25:35 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Wed, 16 Sep 2026 13:54:28 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 14:25:35 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>Coding Agents Have Converged: When a Leaderboard Runs Out of Resolution</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-17.mp3" length="4172445" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-17.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:08:22</itunes:duration>
     </item>
     <item>
       <title>Negative Self-Distillation — Learning to Reason by Avoiding Your Own Flaws</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-01.mp3</guid>
       <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:09:10</itunes:duration>
-    </item>
-    <item>
-      <title>Content-Aware Frame Selection: Spending Your Token Budget Where the Video Actually Changes</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-31.mp3" length="4056333" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-08-31.mp3</guid>
-      <pubDate>Mon, 31 Aug 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:08:09</itunes:duration>
     </item>
   </channel>
 </rss>
