@@ -8,13 +8,13 @@
     <itunes:author>Michael Crystal</itunes:author>
     <itunes:summary>A two-host analyst brief on the last 24h of AI-infra signal, generated daily from Michael's wiki — serving/inference, evals, retrieval/memory, agent runtimes, cost/latency.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 21 Sep 2026 13:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:43:52 +0000</lastBuildDate>
     <item>
       <title>Mock System Design Interview — A Twitter-Style News Feed</title>
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3" length="7668333" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-mock-sysdesign-newsfeed.mp3</guid>
-      <pubDate>Mon, 21 Sep 2026 13:55:18 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 13:43:52 +0000</pubDate>
       <itunes:duration>0:15:24</itunes:duration>
     </item>
     <item>
@@ -22,8 +22,16 @@
       <itunes:author>Michael Crystal</itunes:author>
       <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3" length="6850173" type="audio/mpeg"/>
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-kimi-k3-explainer.mp3</guid>
-      <pubDate>Mon, 21 Sep 2026 13:55:18 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 13:43:52 +0000</pubDate>
       <itunes:duration>0:13:40</itunes:duration>
+    </item>
+    <item>
+      <title>What Makes a Database "For AI Agents" — the Five Criteria</title>
+      <itunes:author>Michael Crystal</itunes:author>
+      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-22.mp3" length="4445925" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-22.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>0:08:48</itunes:duration>
     </item>
     <item>
       <title>Confidence Comes from Experience — Calibrating What a Model Knows It Knows</title>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-03.mp3</guid>
       <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
       <itunes:duration>0:08:40</itunes:duration>
-    </item>
-    <item>
-      <title>The Super Library Agent — Coding Across a Portfolio, Not a Codebase</title>
-      <itunes:author>Michael Crystal</itunes:author>
-      <enclosure url="https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-02.mp3" length="5111589" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://mikeycrystal.github.io/daily-podcast-site/podcast-2026-09-02.mp3</guid>
-      <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
-      <itunes:duration>0:10:15</itunes:duration>
     </item>
   </channel>
 </rss>
